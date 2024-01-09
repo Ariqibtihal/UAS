@@ -17,10 +17,10 @@
 - Program harus menampilkan struk pembelian.
 
 ## kode program 
-![Alt text](Gambar/<carbon 5.png>)
+![Alt text](<carbon 5.png>)
 
 ## Output program
-![Alt text](Gambar/<carbon (6).png>)
+![Alt text](<carbon (6).png>)
 ### Masukan menu
 ![Alt text](Gambar/image1.png)
 
